@@ -23,7 +23,7 @@ The dataset (emails.csv) contains 5,172 emails, each represented by the frequenc
 
 **Files Included**
 
-EMAILS-1.html → Jupyter Notebook containing the full EDA process
+EMAILS-1.ipynb → Jupyter Notebook containing the full EDA process
 
 emails.csv → Dataset used for analysis
 
